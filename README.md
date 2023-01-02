@@ -1,2 +1,1 @@
-### Hi I am Reuben Reny 👋!
-![1d2c6830ced2412b4c4f4dee59fc6ba2](https://user-images.githubusercontent.com/91770238/210222843-1ed3f074-a8a9-4d83-9cbb-fe01f5fc0cfe.gif width="50")
+<h1> Hi, I'm Reuben Reny <img src="https://i.pinimg.com/originals/1d/2c/68/1d2c6830ced2412b4c4f4dee59fc6ba2.gif" width="50"></h1>
