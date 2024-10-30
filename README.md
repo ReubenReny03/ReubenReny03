@@ -28,7 +28,7 @@
 
 ---
 
-### 🤝 Let's Connect: reubenreny@gmail.com
+### 🤝 Let's Connect:
 <p align="center">
   <a href="https://www.linkedin.com/in/reuben-reny/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
