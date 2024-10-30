@@ -1,16 +1,10 @@
 <h1 align="center">Hi, I'm ReMo <img src="https://thumbs.gfycat.com/BossyForthrightBluet-max-1mb.gif" width="80"></h1>
-<p align="center">
-  <b>Name</b>: Reuben Reny<br>
-  <b>Year of Study</b>: 3rd Year<br>
-  <b>Interests</b>: Automation and Autonomous Engineering with Software Solutions
-</p>
-
 ---
 
 ### 🧑‍💻 About Me:
 - 👨‍🎓 3rd-year student passionate about automation and autonomous systems.
 - 🚀 Building software solutions for real-world applications.
-- 💡 Currently exploring AI and generative models in cybersecurity.
+- 💡 Currently exploring Full Stack Devlopment with automation
 
 ---
 
@@ -20,26 +14,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReubenReny03&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🌟 Top Repositories:
-[![Inspector-X](https://github-readme-stats.vercel.app/api/pin/?username=ReubenReny03&repo=Inspector-X&theme=radical)](https://github.com/ReubenReny03/Inspector-X)
-[![Streetlight-Fault-Detection](https://github-readme-stats.vercel.app/api/pin/?username=ReubenReny03&repo=Streetlight-Fault-Detection&theme=radical)](https://github.com/ReubenReny03/Streetlight-Fault-Detection)
-
----
-
-### 🏆 Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReubenReny03&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 Contribution Graph:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ReubenReny03&theme=rogue" alt="Contribution Graph" />
 </p>
 
 ---
@@ -55,7 +29,7 @@
 
 ---
 
-### 🤝 Let's Connect:
+### 🤝 Let's Connect: reubenreny@gmail.com
 <p align="center">
   <a href="https://www.linkedin.com/in/reuben-reny/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
