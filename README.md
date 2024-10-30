@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm ReMo <img src="https://thumbs.gfycat.com/BossyForthrightBluet-max-1mb.gif" width="80"></h1>
----
 
 ### 🧑‍💻 About Me:
 - 👨‍🎓 3rd-year student passionate about automation and autonomous systems.
