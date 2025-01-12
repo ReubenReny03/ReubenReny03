@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ReMo <img src="https://thumbs.gfycat.com/BossyForthrightBluet-max-1mb.gif" width="80"></h1>
 
 ### 🧑‍💻 About Me:
-- 👨‍🎓 3rd-year student passionate about automation and autonomous systems.
+- 👨‍🎓 4th-year student passionate about automation and autonomous systems.
 - 🚀 Building software solutions for real-world applications.
 - 💡 Currently exploring Full Stack Devlopment with automation
 
